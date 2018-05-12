@@ -1,0 +1,35 @@
+_repo: Provocations_33855
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bristowe, Sibyl
+    gutenberg_agent_id: '36725'
+    url: http://www.gutenberg.org/2009/agents/36725
+description: ''
+gutenberg_issued: '2010-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+title: Provocations
+url: http://www.gutenberg.org/ebooks/33855
